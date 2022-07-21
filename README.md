@@ -1,2 +1,3 @@
 # no-hair-idol
-we are dangdang
+son bal E doit! na woori doori! wanna take it!
+ddiriririririririri
