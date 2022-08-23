@@ -19,6 +19,6 @@ public class StartBtnScript : MonoBehaviour
 
     public void ClickToStart()
     {
-        SceneManager.LoadScene("LobbyScene");
+        SceneManager.LoadScene("LobbyScene"); //스타트 버튼을 누르면 로비 화면으로 넘어감
     }
 }

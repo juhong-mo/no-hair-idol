@@ -19,6 +19,6 @@ public class LV1Script : MonoBehaviour
 
     private void OnMouseDown()
     {
-        SceneManager.LoadScene("LV1Scene");
+        SceneManager.LoadScene("LV1Scene"); //레벨1-연타게임 화면으로 넘어감
     }
 }
