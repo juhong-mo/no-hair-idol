@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b888f268dfb95bb4789b0564d5d97d50
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - grabbedPrefab: {fileID: 9155517419898833890, guid: afdcb86da3298bb45b8c5190f3b5e02f, type: 3}
+  - hpGaugePrefab: {fileID: 4041756782166451397, guid: 1cd96a2f86f4ea745a382b6d0c775b7e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

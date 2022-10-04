@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: aa9b4e2c15a35a145b6592885e5b35de
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - handPrefab: {fileID: 1800931026869117110, guid: 6734d0f4216046446b331b62144065d2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
